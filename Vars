@@ -80,6 +80,11 @@
 	"ColorSET2": "eyJ1c2VyU2V0dGluZyI6eyJpZCI6IlByZWZlcnJlZENvbG9yIiwidmFsdWUiOiJodHRwczovL2RsYXNzZXRzLXNzbC54Ym94bGl2ZS5jb20vcHVibGljL2NvbnRlbnQvcHBsL2NvbG9ycy8wMDA=",
 	"ColorSET3": "Lmpzb24ifX0=",
 	
-	"PostColor1": "aHR0cHM6Ly9wcm9maWxlLnhib3hsaXZlLmNvbS91c2Vycy9tZS9wcm9maWxlL3NldHRpbmdzL1ByZWZlcnJlZENvbG9y"
+	"PostColor1": "aHR0cHM6Ly9wcm9maWxlLnhib3hsaXZlLmNvbS91c2Vycy9tZS9wcm9maWxlL3NldHRpbmdzL1ByZWZlcnJlZENvbG9y",
+	
+	"OnOff1": "aHR0cHM6Ly91c2VycHJlc2VuY2UueGJveGxpdmUuY29tL3VzZXJzL3h1aWQo",
+	"OnOff2": "KS9zdGF0ZQ==",
+	"AppearOnline": "e1wic3RhdGVcIjpcIkFjdGl2ZVwifQ==",
+	"AppearOffline": "e1wic3RhdGVcIjpcIkNsb2FrZWRcIn0="
 	}
 }
