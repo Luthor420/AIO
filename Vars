@@ -22,7 +22,7 @@
 	"YouTubeConfigID": "NjRjMTAxMDAtM2Q0MC00OWQ1LThmMWMtYzk5ODA3NDU5NzY5",
 	"YouTubeID1": "MQ==",
 	"YouTubeID2": "Mg==",
-	"YouTubeID3": "Mw=="",
+	"YouTubeID3": "Mw==",
 	"YouTubeID4": "NA==",
 	"YouTubeID5": "NQ==",
 	"YouTubeID6": "Ng==",
@@ -42,5 +42,16 @@
 	"NetflixID18": "MTg=",
 	"NetflixID19": "MTk=",
 	"NetflixID20": "MjA=",
+	
+	"AmazonConfigID": "ZGM0OTAxMDAtZTMyZC00ZDljLTg0YjktZWU3ZDEwNTkyOThl",
+	"AmazonID2": "Mg==",
+	"AmazonID3": "Mw==",
+	"AmazonID5": "NQ==",
+	"AmazonID6": "Ng==",
+	"AmazonID7": "Nw==",
+	"AmazonID8": "OA==",
+	"AmazonID9": "OQ==",
+	"AmazonID10": "MTA=",
+	"AmazonID11": "MTE=",
 	}
 }
