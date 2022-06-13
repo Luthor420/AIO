@@ -75,5 +75,9 @@
 	"Color18URL": "aHR0cHM6Ly9kbGFzc2V0cy1zc2wueGJveGxpdmUuY29tL3B1YmxpYy9jb250ZW50L3BwbC9jb2xvcnMvMDAwMTguanNvbg==",
 	"Color19URL": "aHR0cHM6Ly9kbGFzc2V0cy1zc2wueGJveGxpdmUuY29tL3B1YmxpYy9jb250ZW50L3BwbC9jb2xvcnMvMDAwMTkuanNvbg==",
 	"Color20URL": "aHR0cHM6Ly9kbGFzc2V0cy1zc2wueGJveGxpdmUuY29tL3B1YmxpYy9jb250ZW50L3BwbC9jb2xvcnMvMDAwMjAuanNvbg==",
+	
+	"ColorSET1": "e1widXNlclNldHRpbmdcIjp7XCJpZFwiOlwiUHJlZmVycmVkQ29sb3JcIixcInZhbHVlXCI6XCJodHRwczovL2RsYXNzZXRzLXNzbC54Ym94bGl2ZS5jb20vcHVibGljL2NvbnRlbnQvcHBsL2NvbG9ycy8wMDAw",
+	"ColorSET2": "e1widXNlclNldHRpbmdcIjp7XCJpZFwiOlwiUHJlZmVycmVkQ29sb3JcIixcInZhbHVlXCI6XCJodHRwczovL2RsYXNzZXRzLXNzbC54Ym94bGl2ZS5jb20vcHVibGljL2NvbnRlbnQvcHBsL2NvbG9ycy8wMDA=",
+	"ColorSET3": "Lmpzb25cIn19"
 	}
 }
