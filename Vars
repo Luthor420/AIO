@@ -1,8 +1,14 @@
 {
-	"Dayone":{
-	"DayOneClick1": "e1wicG9zdFR5cGVcIjpcIlhib3hMaW5rXCIsXCJwb3N0VGV4dFwiOlwiQUlPIFRPT0wgYnkgTHV0aG9yIzA0MjBcIixcInBvc3RUeXBlRGF0YVwiOntcImxvY2F0b3JcIjpcImFjaGlldmVtZW50cy54Ym94bGl2ZS5jb20vdXNlcnMveHVpZCg=",
-	"DayOneClick2": "KS9hY2hpZXZlbWVudHMvIg==",
-	"DayOneClick3": "IlwifSxcInRpbWVsaW5lc1wiOlt7XCJ0aW1lbGluZVR5cGVcIjpcIlVzZXJcIixcInRpbWVsaW5lT3duZXJcIjo=",
-	"DayOneClick4": "Ig=="
+	"SpoofAchievements":{
+	"DayOneClick1": "eyJwb3N0VHlwZSI6Ilhib3hMaW5rIiwicG9zdFRleHQiOiJBSU8gVE9PTCBieSBMdXRob3IjMDQyMCIsInBvc3RUeXBlRGF0YSI6eyJsb2NhdG9yIjoiYWNoaWV2ZW1lbnRzLnhib3hsaXZlLmNvbS91c2Vycy94dWlkKA==",
+	"DayOneClick2": "KS9hY2hpZXZlbWVudHMv",
+	"DayOneClick3": "In0sInRpbWVsaW5lcyI6W3sidGltZWxpbmVUeXBlIjoiVXNlciIsInRpbWVsaW5lT3duZXIiOg==",
+	"DayOneClick4": "fV19",
+	"DayOneID": "MQ==",
+	"DayOneConfigID": "MTJhYjAxMDAtODkzNi00MWMwLThlYWQtNjU0YTNkZWQzNTJi"
+	}
+	"Colors":{
+	"ColorClick1": "IntcInVzZXJTZXR0aW5nXCI6e1wiaWRcIjpcIlByZWZlcnJlZENvbG9yXCIsXCJ2YWx1ZVwiOlwiaHR0cHM6Ly9kbGFzc2V0cy1zc2wueGJveGxpdmUuY29tL3B1YmxpYy9jb250ZW50L3BwbC9jb2xvcnMvMDAwMCI=",
+	"ColorClick2": "Ii5qc29uXCJ9fSI="
 	}
 }
