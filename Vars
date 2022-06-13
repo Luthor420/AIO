@@ -17,6 +17,30 @@
 	"TwitchID10": "MTA=",
 	"TwitchID12": "MTI=",
 	"TwitchID13": "MTM=",
-	"TwitchID14": "MTQ="
+	"TwitchID14": "MTQ=",
+	
+	"YouTubeConfigID": "NjRjMTAxMDAtM2Q0MC00OWQ1LThmMWMtYzk5ODA3NDU5NzY5",
+	"YouTubeID1": "MQ==",
+	"YouTubeID2": "Mg==",
+	"YouTubeID3": "Mw=="",
+	"YouTubeID4": "NA==",
+	"YouTubeID5": "NQ==",
+	"YouTubeID6": "Ng==",
+	"YouTubeID7": "Nw==",
+	"YouTubeID8": "OA==",
+	"YouTubeID9": "OQ==",
+	"YouTubeID10": "MTA=",
+	
+	"NetflixConfigID": "NTk1YzAxMDAtZTUzNS00MGMxLTkzZjYtYTFiMTEzODM0NTJk",
+	"NetflixID1": "MQ==",
+	"NetflixID12": "MTI=",
+	"NetflixID13": "MTM=",
+	"NetflixID14": ""MTQ=",
+	"NetflixID15": "MTU=",
+	"NetflixID16": "MTY=",
+	"NetflixID17": "MTc=",
+	"NetflixID18": "MTg=",
+	"NetflixID19": "MTk=",
+	"NetflixID20": "MjA=",
 	}
 }
