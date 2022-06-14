@@ -85,6 +85,9 @@
 	"OnOff1": "aHR0cHM6Ly91c2VycHJlc2VuY2UueGJveGxpdmUuY29tL3VzZXJzL3h1aWQo",
 	"OnOff2": "KS9zdGF0ZQ==",
 	"AppearOnline": "eyJzdGF0ZSI6IkFjdGl2ZSJ9",
-	"AppearOffline": "eyJzdGF0ZSI6IkNsb2FrZWQifQ=="
+	"AppearOffline": "eyJzdGF0ZSI6IkNsb2FrZWQifQ==",
+	
+	"PeopleHub1": "aHR0cHM6Ly9wZW9wbGVodWIueGJveGxpdmUuY29tL3VzZXJzL21lL3Blb3BsZS94dWlkcyg=",
+	"PeopleHub2": "KS9kZWNvcmF0aW9uL2Jyb2FkY2FzdCxtdWx0aXBsYXllcnN1bW1hcnkscHJlZmVycmVkY29sb3Isc29jaWFsTWFuYWdlcix0b3VybmFtZW50U3VtbWFyeQ=="
 	}
 }
