@@ -98,6 +98,11 @@
 	"AppearOffline": "eyJzdGF0ZSI6IkNsb2FrZWQifQ==",
 	
 	"PeopleHub1": "aHR0cHM6Ly9wZW9wbGVodWIueGJveGxpdmUuY29tL3VzZXJzL21lL3Blb3BsZS94dWlkcyg=",
-	"PeopleHub2": "KS9kZWNvcmF0aW9uL2Jyb2FkY2FzdCxtdWx0aXBsYXllcnN1bW1hcnkscHJlZmVycmVkY29sb3Isc29jaWFsTWFuYWdlcix0b3VybmFtZW50U3VtbWFyeQ=="
+	"PeopleHub2": "KS9kZWNvcmF0aW9uL2Jyb2FkY2FzdCxtdWx0aXBsYXllcnN1bW1hcnkscHJlZmVycmVkY29sb3Isc29jaWFsTWFuYWdlcix0b3VybmFtZW50U3VtbWFyeQ==",
+	
+	"PartyConfig1": "aHR0cHM6Ly9zZXNzaW9uZGlyZWN0b3J5Lnhib3hsaXZlLmNvbS9zZXJ2aWNlY29uZmlncy83NDkyYmFjYS1jMWI0LTQ0MGQtYTM5MS1iN2VmMzY0YThkNDAvc2Vzc2lvbnRlbXBsYXRlcy9jaGF0L3Nlc3Npb25zP3h1aWQ9",
+	"PartyConfig1u2": "JmZvbGxvd2VkPXRydWU=",
+	"PartyConfig2": "aHR0cHM6Ly9zZXNzaW9uZGlyZWN0b3J5Lnhib3hsaXZlLmNvbS9zZXJ2aWNlY29uZmlncy83NDkyYmFjYS1jMWI0LTQ0MGQtYTM5MS1iN2VmMzY0YThkNDAvc2Vzc2lvbnRlbXBsYXRlcy9jaGF0L3Nlc3Npb25zLw==",
+	"PartyConfig2u1": "P25vY29tbWl0PXRydWUmZm9sbG93ZWQ9dHJ1ZQ=="
 	}
 }
