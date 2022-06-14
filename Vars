@@ -1,5 +1,13 @@
 {
 	"SpoofAchievements":{
+	"AchievementSpoofing": "aHR0cHM6Ly9hY2hpZXZlbWVudHMueGJveGxpdmUuY29tL3VzZXJzL3h1aWQo",
+	"AchievementSpoofingDayone": "KS9hY2hpZXZlbWVudHM/dGl0bGVJZD0xMDM4OTU1ODE5Jm1heEl0ZW1zPTE1MCZvcmRlckJ5PUVuZGluZ1Nvb24mY29udGludWF0aW9uVG9rZW49",
+	"AchievementSpoofingTwitch": "KS9hY2hpZXZlbWVudHM/dGl0bGVJZD00NDI3MzY3NjMmbWF4SXRlbXM9MTUwJm9yZGVyQnk9RW5kaW5nU29vbiZjb250aW51YXRpb25Ub2tlbj0=",
+	"AchievementSpoofingYouTube": "KS9hY2hpZXZlbWVudHM/dGl0bGVJZD0xMjIwMDEyNTcmbWF4SXRlbXM9MTUwJm9yZGVyQnk9RW5kaW5nU29vbiZjb250aW51YXRpb25Ub2tlbj0=",
+	"AchievementSpoofingNetflix": "KS9hY2hpZXZlbWVudHM/dGl0bGVJZD0zMjczNzAwMjkmbWF4SXRlbXM9MTUwJm9yZGVyQnk9RW5kaW5nU29vbiZjb250aW51YXRpb25Ub2tlbj0=",
+	"AchievementSpoofingAmazon": "KS9hY2hpZXZlbWVudHM/dGl0bGVJZD0yNzQyNzg3OTgmbWF4SXRlbXM9MTUwJm9yZGVyQnk9RW5kaW5nU29vbiZjb250aW51YXRpb25Ub2tlbj0=",
+	
+	
 	"DayOneClick1": "eyJwb3N0VHlwZSI6Ilhib3hMaW5rIiwicG9zdFRleHQiOiJBSU8gVE9PTCBieSBMdXRob3IjMDQyMCIsInBvc3RUeXBlRGF0YSI6eyJsb2NhdG9yIjoiYWNoaWV2ZW1lbnRzLnhib3hsaXZlLmNvbS91c2Vycy94dWlkKA==",
 	"DayOneClick2": "KS9hY2hpZXZlbWVudHMv",
 	"DayOneClick3": "In0sInRpbWVsaW5lcyI6W3sidGltZWxpbmVUeXBlIjoiVXNlciIsInRpbWVsaW5lT3duZXIiOg==",
