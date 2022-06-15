@@ -112,6 +112,9 @@
 	"FriendList1": "aHR0cHM6Ly9wZW9wbGVodWIueGJveGxpdmUuY29tL3VzZXJzL3h1aWQo",
 	"FriendList2": "KS9wZW9wbGUvc29jaWFsL2RlY29yYXRpb24vYnJvYWRjYXN0LG11bHRpcGxheWVyc3VtbWFyeSxwcmVmZXJyZWRjb2xvcixzb2NpYWxNYW5hZ2VyP1JhbmQ9",
 	
-	"FollowerList1": "aHR0cHM6Ly9wZW9wbGVodWIueGJveGxpdmUuY29tL3VzZXJzL21lL3Blb3BsZS9mb2xsb3dlcnMvZGVjb3JhdGlvbi9icm9hZGNhc3QsbXVsdGlwbGF5ZXJzdW1tYXJ5LHByZWZlcnJlZGNvbG9yLHNvY2lhbE1hbmFnZXI="
+	"FollowerList1": "aHR0cHM6Ly9wZW9wbGVodWIueGJveGxpdmUuY29tL3VzZXJzL21lL3Blb3BsZS9mb2xsb3dlcnMvZGVjb3JhdGlvbi9icm9hZGNhc3QsbXVsdGlwbGF5ZXJzdW1tYXJ5LHByZWZlcnJlZGNvbG9yLHNvY2lhbE1hbmFnZXI=",
+	
+	"PresenceSpoofID1": "aHR0cHM6Ly9wcmVzZW5jZS1oZWFydGJlYXQueGJveGxpdmUuY29tL3VzZXJzL3h1aWQo",
+	"PresenceSpoofID2": "KS9kZXZpY2VzL2N1cnJlbnQ="
 	}
 }
