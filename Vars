@@ -116,7 +116,7 @@
 	
 	"PresenceSpoofID1": "aHR0cHM6Ly9wcmVzZW5jZS1oZWFydGJlYXQueGJveGxpdmUuY29tL3VzZXJzL3h1aWQo",
 	"PresenceSpoofID2": "KS9kZXZpY2VzL2N1cnJlbnQ=",
-	"PresenceBody1": "eyJ0aXRsZXMiOlt7ImV4cGlyYXRpb24iOjYwMCwiaWQiOiI=",
-	"PresenceBody2": "Iiwic3RhdGUiOiJhY3RpdmUiLCJzYW5kYm94IjoiUkVUQUlMIn1dfQ=="
+	"PresenceBody1": "eyJ0aXRsZXMiOlt7ImV4cGlyYXRpb24iOjYwMCwiaWQiOg==",
+	"PresenceBody2": "LCJzdGF0ZSI6ImFjdGl2ZSIsInNhbmRib3giOiJSRVRBSUwifV19"
 	}
 }
