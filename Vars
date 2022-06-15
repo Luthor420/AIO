@@ -115,6 +115,8 @@
 	"FollowerList1": "aHR0cHM6Ly9wZW9wbGVodWIueGJveGxpdmUuY29tL3VzZXJzL21lL3Blb3BsZS9mb2xsb3dlcnMvZGVjb3JhdGlvbi9icm9hZGNhc3QsbXVsdGlwbGF5ZXJzdW1tYXJ5LHByZWZlcnJlZGNvbG9yLHNvY2lhbE1hbmFnZXI=",
 	
 	"PresenceSpoofID1": "aHR0cHM6Ly9wcmVzZW5jZS1oZWFydGJlYXQueGJveGxpdmUuY29tL3VzZXJzL3h1aWQo",
-	"PresenceSpoofID2": "KS9kZXZpY2VzL2N1cnJlbnQ="
+	"PresenceSpoofID2": "KS9kZXZpY2VzL2N1cnJlbnQ=",
+	"PresenceBody1": "eyJ0aXRsZXMiOlt7ImV4cGlyYXRpb24iOjYwMCwiaWQiOiI=",
+	"PresenceBody2": "Iiwic3RhdGUiOiJhY3RpdmUiLCJzYW5kYm94IjoiUkVUQUlMIn1dfQ=="
 	}
 }
