@@ -107,7 +107,9 @@
 	"PartySessionID": "aHR0cHM6Ly9zZXNzaW9uZGlyZWN0b3J5Lnhib3hsaXZlLmNvbS9zZXJ2aWNlY29uZmlncy83NDkyQkFDQS1DMUI0LTQ0MEQtQTM5MS1CN0VGMzY0QThENDAvc2Vzc2lvbnRlbXBsYXRlcy9jaGF0L3Nlc3Npb25zLw==",
 	
 	"ProfileGT": "aHR0cHM6Ly9wcm9maWxlLnhib3hsaXZlLmNvbS91c2Vycy9ndCg=",
-	"ProfileGT2": "KS9wcm9maWxlL3NldHRpbmdzP3NldHRpbmdzPUdhbWVydGFn"
+	"ProfileGT2": "KS9wcm9maWxlL3NldHRpbmdzP3NldHRpbmdzPUdhbWVydGFn",
 	
+	"FriendList1": "aHR0cHM6Ly9wZW9wbGVodWIueGJveGxpdmUuY29tL3VzZXJzL3h1aWQo",
+	"FriendList2": "KS9wZW9wbGUvc29jaWFsL2RlY29yYXRpb24vYnJvYWRjYXN0LG11bHRpcGxheWVyc3VtbWFyeSxwcmVmZXJyZWRjb2xvcixzb2NpYWxNYW5hZ2VyP1JhbmQ9"
 	}
 }
