@@ -29061,6 +29061,17 @@
       "earnedAchievements": 36,
       "currentGamerscore": 1000,
       "maxGamerscore": 1000
+    },
+    {
+    "lastUnlock": "2021-09-13T13:49:40.7130000Z",
+      "titleId": 1879361470,
+      "serviceConfigId": "00000000-0000-0000-0000-00007004c7be",
+      "titleType": "Game",
+      "platform": "Xbox",
+      "name": "Xbox Dev Mode",
+      "earnedAchievements": 0,
+      "currentGamerscore": 0,
+      "maxGamerscore": 1000
     }
   ],
   "pagingInfo": {
